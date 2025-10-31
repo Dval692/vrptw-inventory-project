@@ -75,4 +75,3 @@ The project includes:
 - Per-route customer sequences  
 - (Optional) Gantt-style time window plots  
 
-Example:
