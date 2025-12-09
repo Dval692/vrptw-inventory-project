@@ -73,5 +73,4 @@ The project includes:
 - Route visualizations on a 2D coordinate map  
 - Summary metrics (total distance, time, and vehicle utilization)  
 - Per-route customer sequences  
-- (Optional) Gantt-style time window plots  
 
